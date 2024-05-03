@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayaz</h1>
 <h3 align="center">Student and Ruby on Rails developer from Kazan, Russia</h3>
 
-- 🔭 I’m currently working on **RailTweet**
-
 - 👨‍💻 Telegram **@kha7an**
 
 - 📫 How to reach me **Ayaz.khass@yandex.ru**
